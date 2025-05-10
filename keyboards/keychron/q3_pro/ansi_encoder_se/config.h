@@ -52,3 +52,9 @@
 /* Specifed (0,1) which programmed as "ESC" key on this keyboard as bootmagic key */
 #define BOOTMAGIC_LITE_ROW 0
 #define BOOTMAGIC_LITE_COLUMN 1
+
+
+/* CUSTOM */
+#define TAPPING_TERM 190
+#define CAPS_WORD_IDLE_TIMEOUT 3000
+#define PERMISSIVE_HOLD
